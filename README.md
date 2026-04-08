@@ -1,5 +1,5 @@
 infiniteCanvas — Project Documentation
-Student Submission | Flutter Application GitHub: https://github.com/nayanthomas02/infiniteCanvas_TestApp Date: April 2026
+Student Submission | Flutter Application GitHub: https://github.com/nayanthomas02/infiniteCanvas_TestApp Date: 08 April 2026
 
 1. Project Overview
 infiniteCanvas is a high-performance, offline-first Flutter application that demonstrates two advanced technical features in a single production-ready app:
